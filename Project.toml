@@ -1,0 +1,7 @@
+name = "MyPkg"
+uuid = "57b2803a-7065-4b1f-b6e6-8501f74822af"
+authors = ["Gawa "]
+version = "0.1.0"
+
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
